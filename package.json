@@ -11,7 +11,7 @@
     "formik": "^2.2.9",
     "jwt-decode": "^3.1.2",
     "lodash": "^4.17.21",
-    "react": "^18.2.0",
+    "react": "^18.x",
     "react-bootstrap": "^2.7.2",
     "react-confirm-alert": "^3.0.6",
     "react-dom": "^18.2.0",
